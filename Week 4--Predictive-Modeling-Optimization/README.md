@@ -49,15 +49,10 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Google Colab, GitHub
 ## How to Run in Google Colab
 
 !pip install -q pandas numpy scikit-learn matplotlib
-
 Then upload or paste week4_predictive_optimization.py into Colab and run it.
-
 The script generates:
-
 week4_logistics_dataset.csv
-
 model_comparison.csv
-
 optimized_transport_recommendations.csv
 
 ## Business Value
